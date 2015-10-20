@@ -1,0 +1,37 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jirokanayama@gmail.com",
+    "longName": "2020TokyoOlympiadWatchFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Tokyo 2020 thumb.png",
+                "menuIcon": true,
+                "name": "IMAGE_THUMB",
+                "type": "png"
+            },
+            {
+                "file": "images/Tokyo 2020 b3.png",
+                "name": "IMAGE_BACKGROUND",
+                "targetPlatforms": [
+                    "basalt"
+                ],
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "2020TokyoOlympiadWatchFace",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "85054f91-cf69-41a3-b086-2860489e2782",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
