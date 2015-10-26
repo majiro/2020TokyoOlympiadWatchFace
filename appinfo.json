@@ -9,17 +9,14 @@
     "resources": {
         "media": [
             {
-                "file": "images/Tokyo 2020 thumb.png",
-                "menuIcon": true,
-                "name": "IMAGE_THUMB",
+                "file": "images/Tokyo 2020 b.png",
+                "name": "IMAGE_BACKGROUND",
                 "type": "png"
             },
             {
-                "file": "images/Tokyo 2020 b3.png",
-                "name": "IMAGE_BACKGROUND",
-                "targetPlatforms": [
-                    "basalt"
-                ],
+                "file": "images/Tokyo 2020 thumb.png",
+                "menuIcon": true,
+                "name": "IMAGE_THUMB",
                 "type": "png"
             }
         ]
@@ -27,7 +24,8 @@
     "sdkVersion": "3",
     "shortName": "2020TokyoOlympiadWatchFace",
     "targetPlatforms": [
-        "basalt"
+        "basalt",
+        "chalk"
     ],
     "uuid": "85054f91-cf69-41a3-b086-2860489e2782",
     "versionLabel": "1.1",
