@@ -11,6 +11,10 @@
             {
                 "file": "images/Tokyo 2020 b.png",
                 "name": "IMAGE_BACKGROUND",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt"
+                ],
                 "type": "png"
             },
             {
@@ -24,11 +28,10 @@
     "sdkVersion": "3",
     "shortName": "2020TokyoOlympiadWatchFace",
     "targetPlatforms": [
-        "basalt",
-        "chalk"
+        "basalt"
     ],
     "uuid": "85054f91-cf69-41a3-b086-2860489e2782",
-    "versionLabel": "1.1",
+    "versionLabel": "1.2",
     "watchapp": {
         "watchface": true
     }
