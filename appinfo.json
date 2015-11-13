@@ -9,11 +9,12 @@
     "resources": {
         "media": [
             {
-                "file": "images/Tokyo 2020 b.png",
+                "file": "images/wao.png",
                 "name": "IMAGE_BACKGROUND",
                 "targetPlatforms": [
                     "aplite",
-                    "basalt"
+                    "basalt",
+                    "chalk"
                 ],
                 "type": "png"
             },
@@ -28,7 +29,9 @@
     "sdkVersion": "3",
     "shortName": "2020TokyoOlympiadWatchFace",
     "targetPlatforms": [
-        "basalt"
+        "aplite",
+        "basalt",
+        "chalk"
     ],
     "uuid": "85054f91-cf69-41a3-b086-2860489e2782",
     "versionLabel": "1.2",
